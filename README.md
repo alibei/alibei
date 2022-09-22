@@ -1,4 +1,4 @@
-[![Alibei's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibei&&show_icons=true&&theme=blueberry&&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Alibei's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibei&&show_icons=true&&theme=blueberry&&include_all_commits=true&&border_color=000000")](https://github.com/anuraghazra/github-readme-stats)
 
 <column>
     <a href="https://t.me/realalibei">
