@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alibei&&show_icons=true&&theme=blueberry&&include_all_commits=true&&custom_title=Alibei's GitHub Stats&&border_color=000000" height="192"/>
+[![Alibei's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibei&&show_icons=true&&theme=blueberry&&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <column>
     <a href="https://t.me/realalibei">
@@ -20,4 +20,3 @@
 <br/>
 <br/>
 <a href="https://iconscout.com">Icon source</a>
-
